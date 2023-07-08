@@ -24,8 +24,8 @@ In de componenten kan je de HTML, CSS en JS van dat onderdeel verwerken die verv
 
 <main>
   <h1>Svelte Teller</h1>
-  <p>Count: {count}</p>
-  <button on:click={increment}>Verhoog</button>
+  <p>Getal: {getal}</p>
+  <button on:click={optellen}>Verhoog</button>
 </main>
 
 <style>
