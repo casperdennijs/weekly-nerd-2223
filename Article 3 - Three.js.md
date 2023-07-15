@@ -48,3 +48,11 @@ Dit voorbeeld maakt een kubus in een Three.js scene en roteert deze continu. Het
 
 ## Conclusie
 Three.js is een hele interessante library om je in te gaan verdiepen. Je kan er een heleboele coole werelden bijvoorbeeld mee maken die je naar eigen wensen kan inrichten. Deze kan je vervolgens op het web voor iedereen toegankelijk maken. Maar naast werelden kan je ook hele vette animaties er in maken. Moet wel zeggen dat die allemaal vrij uitdagend en ingewikkeld kan zijn dus je zal wel genoeg tijd en energie erin moeten steken wil je een groot project kunnen maken. Maar wel heel erg de moeite waard om in te verdiepen.
+
+## Bronnen
+- https://threejs.org/
+- https://threejs.org/docs/
+- https://threejs.org/examples/
+- https://sketchfab.com/
+- https://playcanvas.com/
+- https://www.voxels.com/
