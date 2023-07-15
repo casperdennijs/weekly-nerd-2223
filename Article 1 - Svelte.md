@@ -59,8 +59,11 @@ In de componenten kan je de HTML, CSS en JS van dat onderdeel verwerken die verv
   }
 </style>
 ```
-Dit is een eenvoudige Svelte-component die een teller laat zien. De variabele getal wordt gestart met de waarde 0. Wanneer er op de knop "Verhoog" wordt geklikt, moet de functie optellen aangeroepen, die de waarde van getal met 1 verhoogt.
+Dit is een eenvoudige Svelte component die een teller laat zien. De variabele getal wordt gestart met de waarde 0. Wanneer er op de knop "Verhoog" wordt geklikt, moet de functie optellen aangeroepen, die de waarde van getal met 1 verhoogt.
 
 De waarde van getal wordt weergegeven in de paragraaf met behulp van de {getal} tag waarbij de waarde van de getal variabel wordt ingevoegd.
 
 De bijbehorende CSS styling worden uitgeschreven binnen de <style> tags.
+
+## Waarom Svelte gebruiken?
+Svelte is een snelle en lichtgewichte framework die je vrij snel onder de knie kan krijgen. In combinatie met SvelteKit kan je dan ook vrij snel een website opzetten waarin je dynamische data kan tonen die je bijvoorbeeld uit een fetch haalt. Routing is er heel makkelijk gemaakt en templating is ook mogelijk. Je werkt met Svelte in components, dit zorgt ervoor dat alles overzichtelijk blijft en goed te onderhouden is, ook als je het overdraagt naar iemand anders. Gewoon over het algemeen een fijne framework om mee te gebruiken.
