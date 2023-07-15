@@ -26,3 +26,9 @@ Met de Web Serial API kunnen ontwikkelaars toestemming vragen aan gebruikers voo
 
 ## Conclusie
 Project Fugu brengt webapps heel veel dichterbij naar native apps. Door deze functionaliteiten is het veel aantrekkelijker om voor op het web het te maken. Dit gaat sneller en is voor veel meer mensen te bereiken, aangezien heel veel mensen toegang tot het web hebben. Ook kan je dan op zowel desktop als mobiel er makkelijk bij.
+
+## Bronnen
+- https://developer.chrome.com/capabilities/
+- https://developer.chrome.com/articles/bluetooth/
+- https://developer.chrome.com/articles/serial/
+- https://web.dev/gamepad/
