@@ -67,3 +67,8 @@ De bijbehorende CSS styling worden uitgeschreven binnen de <style> tags.
 
 ## Waarom Svelte gebruiken?
 Svelte is een snelle en lichtgewichte framework die je vrij snel onder de knie kan krijgen. In combinatie met SvelteKit kan je dan ook vrij snel een website opzetten waarin je dynamische data kan tonen die je bijvoorbeeld uit een fetch haalt. Routing is er heel makkelijk gemaakt en templating is ook mogelijk. Je werkt met Svelte in components, dit zorgt ervoor dat alles overzichtelijk blijft en goed te onderhouden is, ook als je het overdraagt naar iemand anders. Gewoon over het algemeen een fijne framework om mee te gebruiken.
+
+## Bronnen
+- https://svelte.dev/docs/introduction
+- https://kit.svelte.dev/docs/introduction
+- https://github.com/sveltejs
