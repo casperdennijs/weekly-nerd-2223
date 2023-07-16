@@ -1,0 +1,25 @@
+Weekly Nerd #1
+
+Suzan Lau
+
+Campspace
+
+Topics: Data,
+
+Data
+
+PHP framework Symphony
+Symphony vs Laravel - uitgebreider en meer features. Laravel meer geschikt voor prototyping.
+
+Space
+Title
+Description
+Pitch type
+What's in the area
+Etc...
+
+Pitch type connected met acommodatie type
+
+1 pitch maakt 200 requests, wat veel is
+
+ElasticSearch, soort van database

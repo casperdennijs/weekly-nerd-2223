@@ -1,0 +1,27 @@
+Weekly Nerd #9
+
+Immersive environments on the web
+
+Brian
+
+werkt bij Team Rockstars IT sinds april
+afgestuurd van CMD
+secret sky 2021
+social vr steeds populairder
+afstudeerproject voor stedelijk museum
+
+functionele en technische eisen
+- digitale product moest aansluiten op huidige collectie
+- product moet een boodschap communiceren met de gebruikers
+- moet multiplayer ervaring zijn
+- ... meer
+
+prototypen
+- schetsen plattegrond
+- objecten namaken en uitwerken (brown boxing)
+
+blender voor modeleren van objecten
+
+unity voor uitwerken en brengen naar web
+
+repository met demo voor immersive environment
