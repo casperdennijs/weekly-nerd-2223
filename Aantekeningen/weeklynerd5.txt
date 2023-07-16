@@ -1,0 +1,76 @@
+weeklynerd 5
+
+Aaron Gustafson
+Adapting to Reality
+
+Web design & development is hard
+
+In the beginning... 640 x 480
+Ok, we can go a little larger... 800x600
+Ok, a bit larger, but that's it... 1024 x 768
+
+We were ignoring mobile... 240 x 240 en 640 x 200
+Until this happened... 320 x 480 en 3840 x 2160
+
+Don't even get me started on tablets
+
+Desktop today... 1920 x 1080 en 7680 x 4320
+
+Chasing screen sizes is clearly a fool's errand
+
+2008 - 71 screen resolutions
+2014 - 1062 screen resolutions
+
+2008 - 27 screens with 10 views
+2014 - 200 screens with 10 views
+
+You content can and will go anywhere that's connected
+- wearables
+- smart tvs
+- IoT
+- assistants
+
+Meaning users will need to interact in different ways
+- eye tracking
+- t9
+- touch
+- mouse
+- remote
+- pen
+- braille
+- print
+- keyboard
+- audio
+- gamepad
+
+Over varied networks and in changing conditions
+- wifi
+- hardline
+- mobile
+- homes
+- buildings
+- cars
+- buses
+- trains
+- airplanes
+
+And, ultimately, our users all have different needs too
+
+Anyone notice I haven't even mentioned browsers?
+
+So...?!
+
+Reality check, nothing about our users' experiences of (?)
+
+Treat your ideal scenario as an edge user
+
+Step by step
+1. Focus on what matters
+2. Write it out, then read it back
+3. Look for semantics that support 1 & 2
+4. Think about how design can improve comprehension
+5. Consider how your design choices impact the reading experience
+6. Think about the many different ways folks might interact
+7. Map the potential experiences
+8. Iterate
+

@@ -1,0 +1,82 @@
+Weekly Nerd 3
+
+Stage bij Clever Franke
+
+Chazz Mannering
+
+CMD
+- Begonnen in 2017
+- Alle tech tracks
+- Tussendoor gewerkt als frontend dev
+
+Wie zijn CF
+-> Data driven design & technology consultancy
+
+Globalance
+NFTs
+Corona dashboard
+
+Team CF
+- 40 mensen sterk
+- Multidisciplinair (data analisten, frontend, design en ux)
+- Wekelijkse team meetings, tech en design reviews
+
+Tech stack
+- FE: react en next
+- D3.js en Three.js voor datavis
+- Soms unity voor AR
+
+Wat heeft hij gedaan
+- React course
+- Prototype day gallery
+- Artmile AR
+- Globalance
+- Experiments page
+- Powers of Ten
+- Patherns of Kyro(?)
+
+Prototype day (soort hackathon, duurt 1 dag)
+
+Artmile AR
+- Kunstmeile hamburg
+- Collectief aantal musea
+- Route tussen musea
+- AR onderweg (Churros)
+Gedaan ervoor:
+- Testen web AR
+- Testen react native AR
+- Unity
+
+Globalance
+- Carbon footprint bijhouden
+Gedaan ervoor:
+- Dynamic Axis gebaseerd op data
+- Animatie fixes
+- React rerendering issues
+
+Experiments page
+- Per experiments een "gebouw"
+
+- Probleem: JSON file
+- Oplossing: CMS
+
+- JSON data importeren in Sanity
+- Zelf een grid input component maken
+
+Stage bedrijven waar hij naar heeft gekeken naast CF
+Criteria
+- Geen page-build Wordpress praktijken
+- Midden-grote of grote bedrijven
+- Toffe projecten
+
+Bedrijven
+- Voorhoude
+- Dept
+- Mirabeau
+- etc(?)
+
+Tips voor stage
+- Ken jezelf; weet wat je wel en niet kan en vraag om hulp
+- Wees open voor nieuwe tech; al heb je er geen ervaring mee
+- Ga in discussie met collega's over design en tech
+- etc(?)

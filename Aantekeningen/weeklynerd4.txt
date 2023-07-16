@@ -1,0 +1,54 @@
+Weekly nerd #4
+
+Cyd Stumpel
+Freelance Creative Developer
+
+Front-end dev. Animatie, motion, kleurtjes
+
+Heeft CMD gestudeerd (2017)
+
+Stage:
+- Maties(?) (gestopt 2020 door corona)
+	- Wereldvrede project (Amnesty international)
+
+- Freelance
+	- Ray Charles video museum (honorable mention awwwards)
+	- Presight Partners
+	- cydstumpel.nl (3 awwwards)
+	- Talpa
+	- Studio Sallali
+
+Awwwards jurylid 2021
+
+Docent FDND
+
+Why are so many award winning websites inaccessible?
+- Veel devs self-taught dus nooit accessibility geleerd
+
+Are jury members bad a judging accessibility?
+- Ja
+- Hun schuld? Niet perse
+
+Veel gemaakte fouten in (creative) websites
+- Removing ability to select text
+- Removing focus styles with no replacement
+- Removing native scrolling functionality
+- Omitting alternative text in buttons/images/etc
+- Not adding a text alternatives to letter animations
+- Not respecting prefers-reduced-motion
+
+Bad defaults
+- -webkit-appearance: none
+- outline: none (ook op focus)
+- ul, li: padding 0 en geen list style
+
+Smooth scrolling library fout:
+- Zoeken op woorden scroll snapped niet meer
+
+Tips:
+- Rethink your defaults, your resets,, your go-to code snippets
+- Add text alternatives to letter/word/line animations
+- Consider native funcitonality in virtual scrolling libraries
+- Respect user settings with animations
+
+gsap + splitText

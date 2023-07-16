@@ -1,0 +1,49 @@
+Weekly Nerd #2
+
+Developen als Designer
+Hoe kan je je kennis inzetten voor een betere samenwerking? Tussen Designer en Developer
+
+Oud CMD
+Software Bastards
+
+Verschil 'school' en werkveld
+Praktischer te werk gaan
+- Prioriteit ligt vaak bij het leveren van het product
+- Veel 'ad hoc'-dingen
+- Tech debt bouwt zich al snel op (beschrijving tech debt schrijven)
+- De opleiding is vaak meer 'bij de tijd' qua kennis
+- Vooral werken in bestaande projecten (wennen aan hoe het bestaande project opgezet is)
+
+Samenwerken erg belangrijk ondanks als je goed met code bent, soft skills goed bijhouden
+Naar conferenties gaan en netwerken is goed om te doen
+
+Hoe de handoff bij ons verloopt (Nationaal loterij)
+1. Design, wordt aangeleverd via een Zeplin-link en een Invision-link
+2. Content, middels een apart copydocument
+3. Test, tester controleert alles op design- en copyfoutjes en functionaliteiten
+4. Review, design-acceptatietest waarbij de flows worden doorlopen met de marketeers en designer
+
+Begin altijd mobile-first zowel als Designer als Developer, veel handiger
+
+Testers hoeven niet perse een Designer of Developer achtergrond te hebben, minstens twee testers gaan door het werk heen
+
+Handoff design -> development
+Hoe het vaak aangeleverd wordt:
+1. Zonder extra uitleg over hoe een component zou moeten werken
+2. Geen standaardiseerde formaten (4px - 8px - 16px)
+3. Niet voldoende bestandsformaten (png, webp)
+4. Afbeeldingen verkeerd bijgesneden ontvangen
+Gevolg:
+1. Verkeerde keuze in technische fundering
+2. Developers wijken af van het design
+3. Tijd kwijt aan converteren
+4. Zelf doen is sneller dan na vragen (op korte termijn..)
+
+Hoe kunnen we hieraan bijdragen?
+Met kennis van het proces;
+- Wees proactief in de verbetering van de workflow
+- Bekijk het ook juist vanuit eigen ervaring
+	- kijk mee met het ontwerpproces
+	- wees niet bang om feedback te geven
+- Blijf communiceren; hoe wil je alles aangeleverd krijgen?
+- Plan terugkomende meetings in met de betrokken teams

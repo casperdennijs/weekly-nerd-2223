@@ -1,0 +1,17 @@
+weeklynerd 6
+
+Niels Leenheer
+webdeveloper
+
+html5test ontwikkelt 
+
+kappers platform gemaakt
+
+organiseert web congress
+
+project fugu, binnen chromium
+gat tussen native en web apps verkleinen
+veel niet mogelijk in web apps
+electron bijv
+liever alles in browser
+web is vaak beperkter vanwege veiligheid

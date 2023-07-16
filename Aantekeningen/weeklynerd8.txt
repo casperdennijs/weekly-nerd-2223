@@ -1,0 +1,35 @@
+weeklynerd8
+
+Servin, level30wizards
+
+mbo -> hbo -> own company
+lead 3d dev
+freelancer
+full-stack dev
+
+level30wizards
+creative digital studio
+3d & mooie animaties
+
+this talk:
+- what is it
+- what can you do with it
+- how does it work
+
+webgl kan grafische kaart aanspreken inplaats van cpu
+
+what is webgl
+- opengl
+- shaders
+- 2d en 3d
+
+what is shaders
+- vertex, deffineert shapes
+- fragment, inkleuren shapes
+
+pixiJS, goeie 2d webgl te maken
+
+three.js
+examples: madbox.io, kodeclubs.com, bruno-simon.com
+own examples: tramedico.vercel.app/en, eurovisionvillage.level30wizards.com/en, cryptopolisgames.com/en
+

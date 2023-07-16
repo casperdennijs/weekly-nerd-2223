@@ -1,0 +1,23 @@
+weeklynerd 7
+
+Modal mischief & Dialog dillemas
+
+Hidde
+front end + accessibility
+freelance
+
+w3c
+web accesibility
+initiative wai
+
+Blog: @hdv@frond-end-social
+
+today, it can overlap in all sorts of ways
+
+terminology
+
+modal vs non modal
+
+modal
+an element that is modal is the only thing you can interact with
+the rest of the page is inert
